@@ -1,3 +1,14 @@
+/**
+* E aí, pessoal da Tgid! Tudo certo ? 
+* Espero que gostem da minha resolução e futuramente me passem algumas dicas de como melho :)
+*
+* @author  Victor Hugo Lourenço
+* @version 1.0
+* @since   2022-07-27
+*/
+
+
+
 package application;
 
 import java.text.ParseException;
